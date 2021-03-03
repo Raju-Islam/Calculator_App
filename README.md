@@ -1,4 +1,4 @@
-# calculatior_app
+## Calculator App
 
 this is a calculator project in flutter
 
